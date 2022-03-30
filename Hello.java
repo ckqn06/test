@@ -5,10 +5,6 @@ public class Hello {
 		AddOne ao = new AddOne();
 		int y = ao.addOne(10);
 		
-		System.out.println("y = " + y);
-		
-		/*
-		for (int i=0)
-		 */
+		System.out.println("y - " + y);
 	}
 }
